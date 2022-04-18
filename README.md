@@ -18,6 +18,9 @@
 
 [<img src="./svg/telegram.svg" width="85px" height="85px">](https://t.me/f_georgii)
 [<img src="./svg/gmail.svg" width="85px" height="85px">](mailto:g29f05@gmail.com)
+
+<h2 align="center">Мои достижения<h2/>
+
 [![codewars](https://www.codewars.com/users/FGeorgy/badges/large)](https://www.codewars.com/users/FGeorgy)
 
 <div>
