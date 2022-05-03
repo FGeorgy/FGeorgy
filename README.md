@@ -6,18 +6,18 @@
 <h2 align="center">Stack</h2>
 
 <div style="display: flex">
-    <img src="./svg/html5.svg" width="75px" height="75px">
-    <img src="./svg/css3.svg" width="75px" height="75px">
-    <img src="./svg/javascript.svg" width="75px" height="75px">
-    <img src="./svg/git.svg" width="75px" height="75px">
-    <img src="./svg/webpack.svg" width="75px" height="75px">
-    <img src="./svg/react.svg" width="75px" height="75px">
+    <img src="./svg/html5.svg" width="65px" height="65px">
+    <img src="./svg/css3.svg" width="65px" height="65px">
+    <img src="./svg/javascript.svg" width="65px" height="65px">
+    <img src="./svg/git.svg" width="65px" height="65px">
+    <img src="./svg/webpack.svg" width="65px" height="65px">
+    <img src="./svg/react.svg" width="65px" height="65px">
 </div>
 
 <h2 align="center">Мои контакты</h2>
 
-[<img src="./svg/telegram.svg" width="75px" height="75px">](https://t.me/f_georgii)
-[<img src="./svg/gmail.svg" width="75px" height="75px">](mailto:g29f05@gmail.com)
+[<img src="./svg/telegram.svg" width="65px" height="65px">](https://t.me/f_georgii)
+[<img src="./svg/gmail.svg" width="65px" height="65px">](mailto:g29f05@gmail.com)
 
 <h2 align="center">Мои достижения<h2/>
 
