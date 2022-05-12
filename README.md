@@ -6,12 +6,12 @@
 <h2 align="center">Stack</h2>
 
 <div style="display: flex">
-    <img src="./svg/html5.svg" width="55px" height="55px">
-    <img src="./svg/css3.svg" width="55px" height="55px">
-    <img src="./svg/javascript.svg" width="55px" height="55px">
-    <img src="./svg/git.svg" width="55px" height="55px">
-    <img src="./svg/webpack.svg" width="55px" height="55px">
-    <img src="./svg/react.svg" width="55px" height="55px">
+    <img src="./svg/html5.svg" width="45px" height="45px">
+    <img src="./svg/css3.svg" width="45px" height="45px">
+    <img src="./svg/javascript.svg" width="45px" height="45px">
+    <img src="./svg/git.svg" width="45px" height="45px">
+    <img src="./svg/webpack.svg" width="45px" height="45px">
+    <img src="./svg/react.svg" width="45px" height="45px">
 </div>
 
 <h2 align="center">Мои контакты</h2>
