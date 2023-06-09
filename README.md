@@ -18,7 +18,7 @@
 
 <h2 align="center">Мои достижения<h2/>
 
-[![codewars](https://www.codewars.com/users/FGeorgy/badges/large)](https://www.codewars.com/users/FGeorgy)
+[![codewars](https://www.codewars.com/users/FGeorg/badges/large)](https://www.codewars.com/users/FGeorg)
 
 <div>
   <a href="https://github-readme-stats.vercel.app/api?username=FGeorgy&hide=contribs&show_icons=true&theme=react">
